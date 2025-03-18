@@ -21,7 +21,7 @@ Backend Services for Baxaric LMS Web Courses
 ```
 
 ```bash
-code .
+ code .
 ```
 
 #### 4. **Setup** Environment Variable
